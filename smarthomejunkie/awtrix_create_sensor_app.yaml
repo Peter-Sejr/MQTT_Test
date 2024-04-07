@@ -4,7 +4,7 @@
 # or in any other way exploit any part of copyrighted material without the prior written permission from Smart Home Junkie
 ##########
 
-blueprint:
+yaml blueprint:
   name: Awtrix Create Sensor App
   description: Show a Home Assistant Sensor on the Ulanzi Clock
   domain: automation
